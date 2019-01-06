@@ -1,0 +1,10 @@
+{
+    "name": "choak-server",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+      "deno_ls_plugin": "^0.1.0",
+      "typescript": "^3.2.2"
+    }
+  }
+  
