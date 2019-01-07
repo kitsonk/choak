@@ -3,6 +3,8 @@ export {
   HttpError,
   Middleware,
   Router,
+  RouterMiddleware,
+  RouteParams,
   send,
   Status
 } from "https://raw.githubusercontent.com/kitsonk/oak/master/mod.ts";
